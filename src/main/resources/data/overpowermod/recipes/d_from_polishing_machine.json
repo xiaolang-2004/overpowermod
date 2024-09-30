@@ -1,0 +1,11 @@
+{
+  "type": "overpowermod:polishing_machine",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "output": {
+    "item": "minecraft:diamond"
+  }
+}

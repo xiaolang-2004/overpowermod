@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "overpowermod:block/reiki_entity_ore"
+  }
+}

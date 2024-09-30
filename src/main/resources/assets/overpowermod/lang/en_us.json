@@ -1,0 +1,27 @@
+{
+  "item.overpowermod.reiki_entity": "测试1/实体灵气",
+  "item.overpowermod.test002": "测试2",
+  "itemGroup.overpowermod_group": "overpower群组",
+  "block.overpowermod.reiki_entity_block": "测试3/灵气块",
+  "block.overpowermod.reiki_entity_ore": "测试4/灵气矿",
+  "item.overpowermod.test005": "测试5",
+  "item.overpowermod.fire_ether": "火以太",
+  "block.overpowermod.fire_ether_block": "火方块",
+  "item.overpowermod.anthracite": "无烟煤",
+  "item.overpowermod.fireEther.tooltip": "点燃世界！",
+  "item.overpowermod.reiki_entity_boots": "鞋子",
+  "item.overpowermod.reiki_entity_leggings": "裤子",
+  "item.overpowermod.reiki_entity_chestplate": "胸甲",
+  "item.overpowermod.reiki_entity_helmet": "鞋子",
+  "item.overpowermod.reiki_entity_sword": "剑",
+  "item.overpowermod.reiki_entity_shove": "锹",
+  "item.overpowermod.reiki_entity_hoe": "锄头",
+  "item.overpowermod.reiki_entity_pickaxe": "镐子",
+  "item.overpowermod.reiki_entity_axe": "斧头",
+  "item.overpowermod.satiety_pill": "饱腹丸",
+  "item.overpowermod.strawberry": "草莓",
+  "item.overpowermod.strawberry_seeds": "草莓种子",
+
+  "item.overpowermod.happy_new_year_music_disc": "World Asian Carnival China Traditional Music Travel",
+  "item.overpowermod.happy_new_year_music_disc.desc": "SoundGalleryBy - World Asian Carnival China Traditional Music Travel (CC0)"
+}

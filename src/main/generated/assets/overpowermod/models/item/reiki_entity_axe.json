@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "overpowermod:item/reiki_entity_axe"
+  }
+}

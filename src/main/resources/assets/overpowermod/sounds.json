@@ -1,0 +1,46 @@
+{
+  "prospector_call": {
+    "subtitle": "sounds.overpowermod.prospector_call",
+    "sounds": [
+      "overpowermod:prospector_call"
+    ]
+  },
+  "block_break": {
+    "subtitle": "sounds.overpowermod.block_break",
+    "sounds": [
+      "overpowermod:block_break"
+    ]
+  },
+  "block_fall": {
+    "subtitle": "sounds.overpowermod.block_fall",
+    "sounds": [
+      "overpowermod:block_fall"
+    ]
+  },
+  "block_hit": {
+    "subtitle": "sounds.overpowermod.block_hit",
+    "sounds": [
+      "overpowermod:block_hit"
+    ]
+  },
+  "block_place": {
+    "subtitle": "sounds.overpowermod.block_place",
+    "sounds": [
+      "overpowermod:block_place"
+    ]
+  },
+  "block_step": {
+    "subtitle": "sounds.overpowermod.block_step",
+    "sounds": [
+      "overpowermod:block_step"
+    ]
+  },
+  "happy_new_year": {
+    "sounds": [
+      {
+        "name": "overpowermod:happy_new_year",
+        "stream": true
+      }
+    ]
+  }
+}

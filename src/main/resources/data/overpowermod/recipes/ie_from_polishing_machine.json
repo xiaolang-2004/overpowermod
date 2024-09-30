@@ -1,0 +1,12 @@
+{
+  "type": "overpowermod:polishing_machine",
+  "ingredients": [
+    {
+      "item": "overpowermod:reiki_entity",
+      "count": 8
+    }
+  ],
+  "output": {
+    "item": "overpowermod:reiki_entity_block"
+  }
+}

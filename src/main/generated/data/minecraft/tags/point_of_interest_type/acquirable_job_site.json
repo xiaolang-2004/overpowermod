@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "overpowermod:reiki_entity_block_poi",
+      "required": false
+    }
+  ]
+}

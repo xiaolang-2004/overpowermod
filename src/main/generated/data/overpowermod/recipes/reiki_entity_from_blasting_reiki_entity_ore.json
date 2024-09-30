@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "reikientity",
+  "ingredient": {
+    "item": "overpowermod:reiki_entity_ore"
+  },
+  "result": "overpowermod:reiki_entity"
+}

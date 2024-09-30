@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "overpowermod:reiki_entity_boots",
+    "overpowermod:reiki_entity_chestplate",
+    "overpowermod:reiki_entity_helmet",
+    "overpowermod:reiki_entity_leggings",
+    "overpowermod:reiki_entity_leggings"
+  ]
+}

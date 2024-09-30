@@ -1,0 +1,7 @@
+// 1.20.1	2024-09-29T23:05:43.1302635	overpowermod/Tags for minecraft:block
+80ac957750ca3846df1acfa32f673b126e81e99b data\minecraft\tags\blocks\needs_iron_tool.json
+80ac957750ca3846df1acfa32f673b126e81e99b data\fabric\tags\blocks\need_tool_level_2.json
+336fe69443dbabfcc8d75a034f5f77e50d0cd186 data\overpowermod\tags\blocks\prospector_list.json
+8771e2d527b9fa6e124ad2b72a83d7d30b770a5d data\minecraft\tags\blocks\mineable\pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+598f004b07afc986319dce9d3774499365bff936 data\minecraft\tags\blocks\needs_stone_tool.json

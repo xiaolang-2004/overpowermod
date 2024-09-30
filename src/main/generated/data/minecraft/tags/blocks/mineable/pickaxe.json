@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "overpowermod:reiki_entity_block",
+    "overpowermod:reiki_entity_ore"
+  ]
+}
